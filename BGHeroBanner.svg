@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 720">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        opacity: .6;
+      }
+
+      .cls-6 {
+        opacity: .3;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="1440" height="720"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x="-5" y="-5" width="1450" height="730"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-2" width="1440" height="720"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4">
+    <g class="cls-3">
+      <image width="3022" height="1522" transform="translate(-5.3 -5.3) scale(.5)" xlink:href="BGHeroBanner-1.png"/>
+    </g>
+  </g>
+  <g class="cls-1">
+    <g class="cls-5">
+      <image width="3077" height="3078" transform="translate(-187.4 -1944.4)" xlink:href="BGHeroBanner-2.png"/>
+    </g>
+    <g class="cls-6">
+      <image width="2886" height="2886" transform="translate(-936.9 -1760.5)" xlink:href="BGHeroBanner-3.png"/>
+    </g>
+  </g>
+</svg>
