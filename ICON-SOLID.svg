@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.34 15.34">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-3" points="3.46 5.1 7.66 2.66 11.88 5.1 7.68 7.54 3.46 5.1"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-3" points="3.3 10.23 3.31 5.38 7.54 7.82 7.52 12.67 3.3 10.23"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-3" points="7.82 12.67 7.8 7.82 12.03 5.38 12.04 10.23 7.82 12.67"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g class="cls-6">
+      <polyline class="cls-4" points="11.88 5.1 7.66 2.66 3.46 5.1 7.68 7.54 11.88 5.1"/>
+    </g>
+  </g>
+  <g>
+    <g class="cls-2">
+      <g class="cls-5">
+        <polyline class="cls-4" points="7.54 7.82 3.31 5.38 3.3 10.23 7.52 12.67 7.54 7.82"/>
+      </g>
+    </g>
+    <g class="cls-2">
+      <g class="cls-1">
+        <polyline class="cls-4" points="12.03 5.38 7.8 7.82 7.82 12.67 12.04 10.23 12.03 5.38"/>
+      </g>
+    </g>
+  </g>
+</svg>
