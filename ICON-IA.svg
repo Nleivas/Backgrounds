@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.3 15.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="3.9" cy="9.9" fx="3.9" fy="9.9" r="14.3" gradientTransform="translate(0 18) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9168c0"/>
+      <stop offset=".4" stop-color="#5684d1"/>
+      <stop offset=".7" stop-color="#1ba1e3"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="11.2" cy="13.8" fx="11.2" fy="13.8" r="2.5" gradientTransform="translate(0 18) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9168c0"/>
+      <stop offset=".4" stop-color="#846dc3"/>
+      <stop offset=".6" stop-color="#637dcd"/>
+      <stop offset=".7" stop-color="#5684d1"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-2" d="M8.9,6.6l3,1.1c.2,0,.2.4,0,.4l-3,1.1c0,0-.1,0-.1.1l-1.1,3c0,.2-.4.2-.4,0l-1.1-3c0,0,0-.1-.1-.1l-3-1.1c-.2,0-.2-.4,0-.4l3-1.1c0,0,.1,0,.1-.1l1.1-3c0-.2.4-.2.4,0l1.1,3c0,0,0,.1.1.1Z"/>
+  <path class="cls-1" d="M11.6,3.8l.9.4c0,0,0,.1,0,.1l-.9.3s0,0,0,0l-.4.9c0,0-.1,0-.1,0l-.4-.9s0,0,0,0l-.9-.3c0,0,0-.1,0-.1l.9-.3s0,0,0,0l.4-1c0,0,.1,0,.1,0l.4,1s0,0,0,0Z"/>
+</svg>
